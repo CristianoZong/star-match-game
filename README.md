@@ -4,6 +4,10 @@
 
 This game was built as a Udacity Intro to Programming NanoDegree project. 
 
+## How to Load the game
+
+- Clone the **[repo](https://github.com/criszong/udacity_intro_javascript.git)** and open index.html
+
 ### How to Play the Game
 
 The game board consists of twelve to twenty-four cards arranged randomly in a grid. The deck is made up of six to twelve pairs of cards, each with different symbols on one side.
