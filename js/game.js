@@ -257,7 +257,11 @@
 
   // Restart game
   $('#restart').click(function() {
-    $('#winModal').hide();
+    $('#startModal').show();
+  });
+
+  $('#restart1').click(function() {
+  	$('#winModal').hide();
     $('#startModal').show();
   });
 
